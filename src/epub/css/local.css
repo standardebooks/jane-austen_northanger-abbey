@@ -15,6 +15,6 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:verse"] {
+[epub|type~="z3998:verse"]{
 	text-align: justify;
 }
