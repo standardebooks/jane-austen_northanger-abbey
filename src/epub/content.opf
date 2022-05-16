@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jane-austen/northanger-abbey</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-05-16T17:07:12Z</dc:date>
+		<meta property="dcterms:modified">2022-05-16T17:07:12Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -60,16 +60,16 @@
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">A coming-of-age story of a young girl with an overactive imagination.</dc:description>
+		<dc:description id="description">A young girl with an overactive imagination comes of age.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Catherine Morland is a seventeen-year-old girl who is entering society for the first time. Despite her naivete, she quickly gains two potential suitors. This coming-of-age story follows Catherine as she tries to navigate the difficulties of romance, friendship, and responsibility. Classic Austen prose and wit satirize both the Gothic novels popular at the time (especially Ann Radcliffe’s &lt;i&gt;The Mysteries of Udolpho&lt;/i&gt;), as well as contemporary society and woman’s role in it.&lt;/p&gt;
-			&lt;p&gt;Completed in 1803, Northanger Abbey was the first finished novel by &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen&lt;/a&gt;;however, it was first published only posthumously in 1817.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Northanger Abbey&lt;/i&gt; is the coming-of-age story of Catherine Morland, a seventeen-year-old girl who’s entering society for the first time. Despite her naivete, she quickly gains two potential suitors. We follow Catherine as she tries to navigate the difficulties of romance, friendship, and responsibility—problems amplified by the fact that Catherine views her world through the lens of the dramatic Gothic novels she loves to read. Austen deftly satirizes both the Gothic novels popular at the time (especially Ann Radcliffe’s &lt;i&gt;The Mysteries of Udolpho&lt;/i&gt;), as well as contemporary society and woman’s role in it.&lt;/p&gt;
+			&lt;p&gt;Completed in 1803, Northanger Abbey was the first of &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen’s&lt;/a&gt; novels to be completed, but it was only published posthumously in 1817.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/121</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001023075</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">77954</meta>
+		<meta property="se:reading-ease.flesch">66.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Northanger_Abbey</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_northanger-abbey</meta>
 		<dc:creator id="author">Jane Austen</dc:creator>
@@ -84,8 +84,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Édouard_Manet</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79043160</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
@@ -102,6 +102,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
