@@ -69,7 +69,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/121</dc:source>
 		<dc:source>https://archive.org/details/novelslettersofj00aust</dc:source>
-		<meta property="se:word-count">77950</meta>
+		<meta property="se:word-count">77464</meta>
 		<meta property="se:reading-ease.flesch">66.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Northanger_Abbey</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_northanger-abbey</meta>
