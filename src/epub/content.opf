@@ -85,7 +85,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Édouard Manet</dc:contributor>
 		<meta property="file-as" refines="#artist">Manet, Édouard</meta>
-		<link href="https://en.wikipedia.org/wiki/Édouard_Manet" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/%C3%89douard_Manet" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79043160.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
@@ -93,8 +93,9 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-2" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-2" rel="schema:url"/>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Richard Tonsing</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Tonsing, Richard</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
